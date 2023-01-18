@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
           $.ajax({
               type: "POST",
               dataType: "json",
-              url: "https://formcarry.com/s/8T9POKyZ9",
+              url: "https://formcarry.com/s/QW4T8MDEi",
               data: $(this).serialize(),
               success: function (response) {
                 if (response.status == 'success') {
