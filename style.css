@@ -13,7 +13,7 @@ html,body{
 	width: 100%;
 	padding: 20px;
 	border-radius: 30px;
-	color:#fc8516;
+	color:green;
   }
   
   #forma.open {
@@ -26,7 +26,7 @@ html,body{
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: #f04f32;
+	background: #blue;
 	transition: all 0.5s ease;
 	display: none;
   }
